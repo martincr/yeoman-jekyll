@@ -35,4 +35,5 @@ Copy files to /yeoman-jekyll and delete /yeoman
 
 TODO
 
+* Merge as per https://github.com/robwierzbowski/generator-jekyllrb
 * Add uglify task
