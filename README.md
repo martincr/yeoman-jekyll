@@ -27,3 +27,12 @@ http://localhost:9000
     grunt serve
 
 http://localhost:9000
+
+    cd ..
+    jekyll new yeoman
+
+Copy files to /yeoman-jekyll and delete /yeoman
+
+TODO
+
+* Add uglify task
