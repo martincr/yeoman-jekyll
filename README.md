@@ -8,3 +8,15 @@ Playing around with Yeoman, adding some Jekyll
     cd yeoman-jekyll
     npm install -g generator-webapp
     yo webapp
+
+    Sass, Modernizr
+    libsass - N
+    Usage statistics - N
+
+Install bower dependencies
+
+    bower install
+    npm install
+    grunt serve
+
+http://localhost:9000
